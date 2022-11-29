@@ -15,3 +15,7 @@ img {
 .username{
     font-weight: bold;
 }
+em{
+    color: red;
+    font-style: normal;
+}
